@@ -2,38 +2,79 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. Current clamps involves: ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Study of membrane voltage",
+        "b": "Injection of current",
+        "c": "Selecting a unique neuron",
+        "d": "Both a and b"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+  
+
+
+    {
+      "question": "2. Which of the following is maintained while doing current clamp ? ",
+      "answers": {
+        "a": "Injected current",
+        "b": "Membrane voltage level",
+        "c": "Conductance of sodium ion channel",
+        "d": "All of the above"
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
+
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. What is not known as a part of voltage clamp apparatus ? ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Neuron",
+        "b": "Feedback amplifier",
+        "c": "Voltage amplifier",
+        "d": "Ammeter"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "4. Current-Voltage (V-I or I-V) graph is estimated using which of these laws ? ",
+      "answers": {
+        "a": "Krichoff's current law",
+        "b": "Moore's law",
+        "c": "Murphy's law",
+        "d": "Ohm's law"
       },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. What is the unit of membrane voltage ? ",
+      "answers": {
+        "a": "milli Volts",
+        "b": "kilo Volts",
+        "c": "Volts",
+        "d": "Pico Ampere"
+      },
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
+
+
   ]
 }
