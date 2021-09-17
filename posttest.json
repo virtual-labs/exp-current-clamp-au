@@ -1,0 +1,80 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. Current clamps involves: ",
+      "answers": {
+        "a": "Study of membrane voltage",
+        "b": "Injection of current",
+        "c": "Selecting a unique neuron",
+        "d": "Both a and b"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+  
+
+
+    {
+      "question": "2. Which of the following is maintained while doing current clamp ? ",
+      "answers": {
+        "a": "Injected current",
+        "b": "Membrane voltage level",
+        "c": "Conductance of sodium ion channel",
+        "d": "All of the above"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "3. What is not known as a part of voltage clamp apparatus ? ",
+      "answers": {
+        "a": "Neuron",
+        "b": "Feedback amplifier",
+        "c": "Voltage amplifier",
+        "d": "Ammeter"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+
+
+
+
+    {
+      "question": "4. Current-Voltage (V-I or I-V) graph is estimated using which of these laws ? ",
+      "answers": {
+        "a": "Krichoff's current law",
+        "b": "Moore's law",
+        "c": "Murphy's law",
+        "d": "Ohm's law"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+
+
+
+    {
+      "question": "5. What is the unit of membrane voltage ? ",
+      "answers": {
+        "a": "milli Volts",
+        "b": "kilo Volts",
+        "c": "Volts",
+        "d": "Pico Ampere"
+      },
+      
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    }
+
+
+  ]
+}
